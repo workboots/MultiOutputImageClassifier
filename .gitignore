@@ -1,0 +1,11 @@
+# Ignoring images
+*.png
+
+# Ignoring any history
+history*
+
+# Ignoring saved model state
+*.h5
+
+# Ignorin __pycache__
+__pycache__
